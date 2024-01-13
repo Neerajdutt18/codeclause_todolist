@@ -1,2 +1,2 @@
-# codeclause_todolist
+# todolist
 Task - To Do List
